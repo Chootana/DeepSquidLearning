@@ -5,4 +5,4 @@ matplotlib
 tqdm 
 
 ###### Requirements with Version Specifiers ######
-torch == 1.4.0
+torch == 2.2.0
